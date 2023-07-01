@@ -1,5 +1,10 @@
 # MAML-Investigation
 
+*I will be reorganizing the folder structure, refactoring the code and adding comments so that the project is easier to understand once I have the time !*
+
+## Project Organization
+This is the final project for the course Comp 550: Introduction to Natural Language Processing (more info here [link](https://www.mcgill.ca/study/2023-2024/courses/comp-550)) which I completed with Tommaso Rivetti and Eliott Regnier. We received the maximum grade of 85% (A) for the project.
+
 # Abstract
 Deep neural networks are known for their excellent performance on classification tasks in NLP. However, a large amount of training data is required in order to generalize to generalize to unseen data and achieve competitive performance. On the other hand, simpler ML models such as Logistic Regressions or Naive Bayes models start giving accurate results on classification tasks with much less input data in training. 
 
