@@ -1,4 +1,4 @@
-# MAML-Investigation
+# Meta-Learning for Bi-LSTM Models
 
 *I will be reorganizing the folder structure, refactoring the code and adding comments so that the project is easier to understand once I have the time !*
 
